@@ -9,8 +9,8 @@ p{
 
 }
 body{
-    background-image: url(escola.jpg);
     background-image: url(integral.jpeg);
+    background-image: url(escola.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
